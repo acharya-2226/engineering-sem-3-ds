@@ -1,5 +1,4 @@
-# engineering-sem-3-ds
-# 🧠 Data Science Project: Women’s Clothing Reviews Sentiment Analysis
+
 # 🧠 Data Science Project: Women’s Clothing Reviews Sentiment Analysis
 
 This is a comprehensive **data science project** analyzing the Women’s Clothing Reviews dataset using Python. The workflow demonstrates data cleaning, NLP text preprocessing, sentiment classification, and insightful visualizations to extract business value from customer feedback.
