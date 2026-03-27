@@ -105,3 +105,6 @@ Open-source for educational use. Adapt and extend for learning or academic assig
 ## 🙏 Acknowledgments
 
 Thanks to faculty and peers for support and feedback throughout the project.
+
+Folder update note: This directory name was updated and this README was touched to keep folder-level changes tracked in Git.
+Small documentation refresh for commit traceability.
